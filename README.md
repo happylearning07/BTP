@@ -70,6 +70,9 @@ verification
 
 This separation will be preserved in later experiments.
 
+<img width="205" height="283" alt="image" src="https://github.com/user-attachments/assets/a41f136f-bf2a-44c5-9bcb-847e649edd84" />
+
+
 ## Full vanilla evaluation
 
 The experiment evaluated all:
